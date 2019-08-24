@@ -5,5 +5,5 @@ Follow my activities here;
 
 https://twitter.com/TimoMayor/status/1165224459386662912
 
-https://lucid.blog/timothymayor24/post/1566681609
+https://lucid.blog/timothymayor24/post/1566682455
 
