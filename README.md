@@ -1,5 +1,5 @@
 # myhnginternship
-This page is going to chronicle my journey and experiences throughout the HNG Internship 6, beginning from StartNG! I am very grateful to be part of the programme. I believe it's going to be a very wonderful experience for me. I look forward to becoming a better software developer, with capabilities in Frontend & Backend development, as well as Machine Learning after the Internship!
+Herein chronicles my journey and experiences throughout the HNG Internship 6, beginning from StartNG! I am very grateful to be part of the programme. I believe it's going to be a very remarkable experience for me. I look forward to becoming a better software developer, with capabilities in Frontend & Backend development, as well as Machine Learning after the Internship!
 
 Follow my activities here;
 
