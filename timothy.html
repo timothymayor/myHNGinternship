@@ -105,6 +105,7 @@ img {
 	max-width: 500px;
 	padding: 20px 12px 10px 20px;
 	font: 13px Arial, Helvetica, sans-serif;
+    display: inline; 
 }
 .form-style-2-heading{
 	font-weight: bold;
@@ -191,7 +192,7 @@ img {
             padding: 15px;
             font-size: 90%;
         }
-
+/*
         #footer ul {
             padding: 5px;
             list-style-type: none;
@@ -215,6 +216,12 @@ img {
         #footer ul li a:hover {
             background-color: #fff;
             color: #000
+        }
+*/
+        #footer p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 150%;
+            margin: 10px
         }
     </style>
 </head>
@@ -415,38 +422,41 @@ img {
         <div class="form-style-2">
             <div class="form-style-2-heading">Provide your information</div>
             <form action="" method="post">
-                <label for="field1"><span>Name <span class="required">*</span></span><input type="text" class="input-field"
+                <label for="field1"><span>Name: <span class="required">*</span></span><input type="text" class="input-field"
                         name="field1" value="" /></label>
-                <label for="field2"><span>Email <span class="required">*</span></span><input type="text" class="input-field"
+                <label for="field2"><span>Email: <span class="required">*</span></span><input type="text" class="input-field"
                         name="field2" value="" /></label>
-                <label><span>Telephone</span><input type="text" class="tel-number-field" name="tel_no_1" value=""
+                <label><span>Telephone:</span><input type="text" class="tel-number-field" name="tel_no_1" value=""
                         maxlength="4" />-<input type="text" class="tel-number-field" name="tel_no_2" value=""
                         maxlength="4" />-<input type="text" class="tel-number-field" name="tel_no_3" value=""
                         maxlength="10" /></label>
-                <label for="field4"><span>Regarding</span><select name="field4" class="select-field">
-                        <option value="General Question">General</option>
-                        <option value="Advertise">Advertisement</option>
-                        <option value="Partnership">Partnership</option>
+                <label for="field4"><span>Purpose:</span><select name="field4" class="select-field">
+                        <option value="General Question">General Enquiry</option>
+                        <option value="Web Development">Web Development</option>
+                        <option value="Mobile Development">Mobile Development</option>
+                        <option value="Data Engineering">Data Engineering</option>
+                        <option value="Cloud Engineering">Cloud Engineering</option>
                     </select></label>
-                <label for="field5"><span>Message <span class="required">*</span></span><textarea name="field5"
+                <label for="field5"><span>Message: <span class="required">*</span></span><textarea name="field5"
                         class="textarea-field"></textarea></label>
         
                 <label><span> </span><input type="submit" value="Submit" /></label>
             </form>
         </div>
+
     </div>
 
     <div id="footer">
-        <ul>
+    <!--   <ul>
             <li><a href="">Home</a></li>
             <li><a href="">About</a></li>
             <li><a href="">Experience</a></li>
             <li><a href="">Skills</a></li>
             <li><a href="">Education</a></li>
-            <!--<li><a href="">Blog</a></li>-->
+            <!--<li><a href="">Blog</a></li>
             <li><a href="">Contact</a></li>
         </ul> 
-
+    -->
         <p>
             19 Awe Street, Ago Palace Way, Okota, Isolo, Lagos. | 08107098061 | timothymayor24@gmail.com
         </p>
